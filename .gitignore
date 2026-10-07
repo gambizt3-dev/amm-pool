@@ -1,0 +1,8 @@
+# Publish only the approved root website files and this Git allowlist.
+/*
+!/index.html
+!/app.js
+!/style.css
+!/Ledger-World.html
+!/README.md
+!/.gitignore
